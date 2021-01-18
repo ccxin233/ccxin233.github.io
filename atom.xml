@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ccxin233.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-18T07:32:13.728Z</updated>
+    <title>Pluto</title>
+    <updated>2021-01-18T09:11:51.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ccxin233.github.io"/>
     <link rel="self" href="https://ccxin233.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ccxin233.github.io/images/avatar.png</logo>
     <icon>https://ccxin233.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Pluto</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ccxin233.github.io/post/hello-gridea/</id>
