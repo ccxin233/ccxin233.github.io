@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ccxin233.github.io</id>
     <title>Pluto</title>
-    <updated>2021-01-22T11:58:08.100Z</updated>
+    <updated>2021-01-22T12:00:27.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ccxin233.github.io"/>
     <link rel="self" href="https://ccxin233.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>星星只是悲伤又孤独的灯泡漂浮在天空中，它们在无法掌握的周期里进行无穷无尽的循环</subtitle>
     <logo>https://ccxin233.github.io/images/avatar.png</logo>
     <icon>https://ccxin233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pluto</rights>
